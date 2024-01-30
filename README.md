@@ -28,3 +28,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevharsha&show_icons=true&locale=en" alt="webdevharsha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevharsha&" alt="webdevharsha" /></p>
+
+<h3 align="left">Badges:</h3>
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/{{WebDevHarsha}}/achievements?format=svg&limit=3" width="350" />
+</p>
+
