@@ -31,6 +31,6 @@
 
 <h3 align="left">Badges:</h3>
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/{{WebDevHarsha}}/achievements?format=svg&limit=3" width="350" />
+  <img src="https://api.vaunt.dev/v1/github/entities/WebDevHarsha/achievements?format=svg&limit=3" width="350" />
 </p>
 
