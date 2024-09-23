@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/weberharsha" target="blank"><img src="https://img.shields.io/twitter/follow/weberharsha?logo=twitter&style=for-the-badge" alt="weberharsha" /></a> </p>
 
-- 🌱 I’m currently learning **IOT**.
+- 🌱 I’m currently learning **A.I**.
 
 - 📫 How to reach me **vasriharsha@gmail.com**
 
